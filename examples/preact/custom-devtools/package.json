@@ -11,10 +11,10 @@
   "dependencies": {
     "@tanstack/devtools-event-client": "0.4.3",
     "@tanstack/preact-devtools": "workspace:*",
-    "preact": "^10.28.0"
+    "preact": "^10.29.0"
   },
   "devDependencies": {
-    "@preact/preset-vite": "^2.10.3",
+    "@preact/preset-vite": "^2.10.4",
     "vite": "^8.0.0"
   },
   "browserslist": {
